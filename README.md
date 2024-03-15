@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=react-query&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=JPA&logoColor=white">
 <img src="https://img.shields.io/badge/querydsl-59666C?style=for-the-badge&logo=querydsl&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=PHP&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-59666C?style=for-the-badge&logo=PHP&logoColor=white">
 
 
 
