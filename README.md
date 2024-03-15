@@ -8,6 +8,9 @@
 # 학력
 - 부산대학교 산업공학과 학사
 
+# 경력
+- Wins 웹 GUI 풀스택
+
 # Skill
 <div align="center">
   
@@ -25,6 +28,8 @@
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=react-query&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=JPA&logoColor=white">
 <img src="https://img.shields.io/badge/querydsl-59666C?style=for-the-badge&logo=querydsl&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=PHP&logoColor=white">
+
 
 
 
