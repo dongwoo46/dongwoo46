@@ -38,3 +38,7 @@
 ## 백준
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwa406)](https://solved.ac/qwa406)
+
+## Blog URL
+- velog : https://velog.io/@siwol406/posts
+- Medium : https://medium.com/@siwol406
